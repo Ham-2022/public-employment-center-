@@ -1,0 +1,18 @@
+/* src/components/SalaryProcessing.css */
+.table-responsive {
+    margin-top: 20px;
+}
+
+.table th, .table td {
+    text-align: center;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border: none;
+    color: white;
+}

@@ -1,0 +1,25 @@
+.container {
+    padding: 20px;
+}
+
+.list-group-item {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.job-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+p {
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+.form-control, .form-select {
+    margin-bottom: 20px;
+}

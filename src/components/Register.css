@@ -1,0 +1,15 @@
+/* src/components/Register.css */
+
+
+
+.form-label {
+    font-weight: bold;
+}
+
+.btn-primary {
+    width: 100%;
+}
+
+.text-danger {
+    color: red;
+}
